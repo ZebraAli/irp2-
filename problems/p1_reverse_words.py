@@ -12,4 +12,3 @@ def reverse_words(text):
 
 sentence = input()
 print(reverse_words(sentence))
-I love coding.
